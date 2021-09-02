@@ -1,3 +1,3 @@
-# Ansible Collection - k24.linux
+# Ansible Collection - k24.lin
 
 Documentation for the collection.
