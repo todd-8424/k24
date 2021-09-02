@@ -1,0 +1,4 @@
+---
+collections:
+  - name: k24.lin
+    source: git+https://github.com/todd-8424/k24.git
